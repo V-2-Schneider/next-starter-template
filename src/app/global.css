@@ -1,0 +1,23 @@
+:root {
+  --bg-color: #222;
+  --fg-color: #ddd;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+
+body {
+  min-height: 100vh;
+  background-color: var(--bg-color);
+  color: var(--fg-color);
+}

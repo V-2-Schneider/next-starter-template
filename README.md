@@ -1,0 +1,1 @@
+starter template for next.js apps
